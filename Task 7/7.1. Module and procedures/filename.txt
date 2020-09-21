@@ -1,0 +1,3 @@
+print *, 'Content added from other file'
+
+call triangle(30)
